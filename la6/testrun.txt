@@ -1,0 +1,11 @@
+1
+2
+3
+The Object has been created.
+increment method called.
+1
+increment method called.
+2
+increment method called.
+3
+The object has been destroyed.

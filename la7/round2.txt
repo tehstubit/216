@@ -1,0 +1,14 @@
+Constructor called
+Value of var: 1
+Value of &this 0x7fff5aa11880
+Value of var: 2
+Value of &this 0x7fff5aa11880
+Copy constructor called
+Value of var: 3
+Value of &this 0x7fff5aa11890
+Destructor called
+Value of var: 3
+Value of &this 0x7fff5aa11880
+Destructor called
+
+There is nothing different other than now showing when the copy constructor is called.

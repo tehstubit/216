@@ -1,0 +1,53 @@
+String vector before: 
+  qxxxc
+  qfsrj
+  pdjhr
+  fpbwx
+  mguix
+  qfhlu
+  cdtbb
+  xsiql
+  thqcp
+  jjeki
+  bwovg
+  nnnxy
+
+String vector after: 
+  bwovg
+  cdtbb
+  fpbwx
+  jjeki
+  mguix
+  nnnxy
+  pdjhr
+  qfhlu
+  qfsrj
+  qxxxc
+  thqcp
+  xsiql
+String vector after reverse: 
+  xsiql
+  thqcp
+  qxxxc
+  qfsrj
+  qfhlu
+  pdjhr
+  nnnxy
+  mguix
+  jjeki
+  fpbwx
+  cdtbb
+  bwovg
+String vector after last char sort: 
+  cdtbb
+  qxxxc
+  bwovg
+  jjeki
+  qfsrj
+  xsiql
+  thqcp
+  pdjhr
+  qfhlu
+  mguix
+  fpbwx
+  nnnxy

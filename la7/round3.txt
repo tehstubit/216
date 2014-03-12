@@ -1,0 +1,26 @@
+Constructor called
+Value of var: 1
+Value of &this 0x7fffee28e440
+Value of var: 2
+Value of &this 0x7fffee28e440
+Copy constructor called
+Value of var: 3
+Value of &this 0x7fffee28e450
+Destructor called
+Value of var: 3
+Value of &this 0x7fffee28e440
+Constructor called
+Constructor called
+Constructor called
+Value of var: 1
+Value of &this 0x160f050
+Destructor called
+Value of var: 1
+Value of &this 0x160f030
+Destructor called
+Value of var: 1
+Value of &this 0x160f010
+Destructor called
+Destructor called
+
+

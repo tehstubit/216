@@ -1,0 +1,5 @@
+Test completed successfully.
+
+This program runs tests using a command line argument for the number of time to run. If no number is given the test runs one time.
+
+If a test fails it outputs the dungeon level to inspection.

@@ -1,0 +1,37 @@
+Creature:
+          [Name] orc
+        [Symbol] o
+        [Health] 15
+       [Hostile] true
+
+Creature:
+          [Name] goblin
+        [Symbol] g
+        [Health] 4
+       [Hostile] true
+
+Creature:
+          [Name] orc
+        [Symbol] o
+        [Health] 15
+       [Hostile] true
+
+Item:
+          [Name] warhammer
+        [Symbol] (
+        [Weight] 10
+         [Value] 50
+
+Item:
+          [Name] chainmail
+        [Symbol] [
+        [Weight] 30
+         [Value] 80
+
+Item:
+          [Name] dagger
+        [Symbol] (
+        [Weight] 5
+         [Value] 10
+
+It seems to be working, generating both creatures and item based on the xml file.

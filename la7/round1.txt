@@ -1,0 +1,13 @@
+Constructor called
+Value of var: 1
+Value of &this 0x7fff9e2b8b60
+Value of var: 2
+Value of &this 0x7fff9e2b8b60
+Value of var: 3
+Value of &this 0x7fff9e2b8b70
+Destructor called
+Value of var: 3
+Value of &this 0x7fff9e2b8b60
+Destructor called
+
+The constructor is called at the beginning when the object is constructed. The destructor is called twice, once when a copy of the originial is destroyed and again when the origional is destroyed.

@@ -1,0 +1,2 @@
+
+Without the referece declarator it was trying to delete memory that had already been deleted. This creates a problem which the operating system will not allow because it is trying to delete memory that is no longer allocated to this part of the program from the heap.

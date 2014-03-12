@@ -1,0 +1,9 @@
+Reflection Questions			James Irvin
+
+
+One reason quick sort might be prefered to quick sort by some people is due 
+to its lower memory requirements. This is because the way quick sort is implimented
+it does not use recursion as much as merge sort does.
+
+The merge sort implimentation has the ability to sort by the length of the string
+which our quick sort implimentation does not. 
